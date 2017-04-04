@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<truyen_cuoi>
+
+<!--
+<truyen ten="">
+<ten_truyen></ten_truyen>
+<noi_dung></noi_dung>
+</truyen>
+-->
+
+<!-- them truyen -->
+
+<truyen ten="Như nhau cả">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Một nhà khoa học tánh tình hay đa nghi, nên ông ta chế tạo ra robot phát hiện nói dối. Ngày chế tạo thành công, ông đem ra thử con trai. Cậu con trai vừa đi học về ông ta đem robot ra hỏi:
+- Sao con đi học về trễ vậy?
+- Con qua nhà bạn mượn sách về học.
+- Robot phát hiện nói dối, đánh cho cậu con trai một cái.
+Ông bố cười: Đó con thấy chưa, nói dối là phải chịu phạt. Lúc bằng tuổi con bố không dám nói dối ông nội nửa lời.
+- Ngay lập tức, robot đạp ông ta một cái bay vô tường.
+Người vợ thấy cậu con trai bị đánh đòn đau bèn nói: Sao anh làm thế với con, dù sao nó cũng là con anh!
+- Robot nắm đầu bà vợ, đánh túi bụi.</noi_dung>
+</truyen>
+
+<truyen ten="Ai vẽ?">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Một họa sĩ mở phòng triển lãm tranh. Một bà quý tộc đến xem, đứng trước một bức tranh hồi lâu rồi hỏi:
+- Tôi muốn biết ai là tác giả bức tranh này?
+Họa sĩ đứng gần đấy, vội đi lại nói:
+- Thưa quý bà, tôi là tác giả.
+Bà khách hỏi:
+- Tuyệt lắm! Ông có thể cho tôi biết ai đã may chiếc váy cho cô gái trong tranh không?</noi_dung>
+</truyen>
+
+<truyen ten="Im lặng là vàng">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Edison phát minh một dụng cụ điện tử, ông muốn bán phát minh này với giá 3.000 USD, và tự nhủ nếu các thương gia chỉ trả 2.000 USD cũng được. Lúc gặp nhau, họ hỏi ông về giá cả, Edison lúng túng không biết phải nói như thế nào. Một người trong số họ đành phải bắt đầu trước:
+- Chúng tôi không trả cao đâu, ông nghĩ sao với cái giá 40.000 USD?</noi_dung>
+</truyen>
+
+<truyen ten="Ra đề quá khó">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Tàu Discovery đang trên đường trở về trái đất từ trạm vũ trụ quốc tế Alpha, trong số bốn phi hành gia có một người da đen. Bỗng xuất hiện một chỗ hỏng ở vỏ ngoài con tàu, cần một người hy sinh leo ra khắc phục sự cố. Nhóm trưởng họp mọi người lại và tuyên bố:
+- Các bạn, một người trong chúng ta phải hy sinh để chữa con tàu, riêng tôi thì không thể chỉ định ai. Vì vậy tôi sẽ tiến hành một cuộc kiểm tra kiến thức, ai không trả lời được, người đó sẽ có vinh dự được chết vì sự nghiệp chinh phục không gian của nhân loại.
+Ông ta bắt đầu hỏi người thứ nhất:
+- Vũ khí mà người Mỹ đã dùng để tấn công một thành phố của Nhật Bản ngày 6/8/1945 tên là gì?
+- À... ờ... một trái bom nguyên tử.
+- Tuyệt! Nói đoạn ông quay về phía người thứ hai, mặt đang trắng nhợt vì sợ hãi. Thế tên thành phố đó là gì?
+- Người này thốt lên và thở phào nhẹ nhõm: Hiroshima.
+- Vị trưởng nhóm dừng lại trước mặt phi công da đen và hỏi: Bây giờ đến lượt anh. Họ, tên, tuổi và nghề nghiệp của những nạn nhân?
+- !?</noi_dung>
+</truyen>
+
+<truyen ten="Tàu vũ trụ">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Hai người nói chuyện với nhau về những thành tựu của nước mình.
+- Sau rất nhiều chuyện, một người nói: Nước tôi đã sản xuất được tàu vũ trụ để đổ bộ lên mặt trời rồi đấy.
+- Nghe vậy, người kia phản ứng lại: Bậy, mặt trời nóng như vậy thì lên làm sao được, tàu sẽ bị nóng chảy ngay lập tức!
+- Người thứ nhất trả lời: Ông dốt thật, chúng tôi thừa thông minh để biết điều đó, vì vậy, chúng tôi sẽ phóng vũ trụ vào ban đêm chứ.
+- ?!</noi_dung>
+</truyen>
+
+<truyen ten="Nơi hoang sơ">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Một nhà thám hiểm vừa phát hiện ra một vùng đất mới , trên đường thăm dò , ông gặp một cậu bé bản địa
+- Nhà thám hiểm đưa cho cậu ta xem chiếc máy chữ và một hộp diêm . Nhìn thấy mấy thứ đó, cậu bé tỏ ra rất ngạc nhiên .
+- “Đây đúng là một vùng đất hoang sơ nhất trên thế giới , không còn nghi ngờ gì nữa!” Nhà thiếm hiểm nghĩ thầm .
+- Đến lúc này thì cậu bé lên tiếng:”Thưa ngài , mặc dù cháu chẳng hiểu ngài định làm gì với mấy thứ đó, nhưng cháu muốn biết cháu đi được chưa ạ. Cháu cần phải vào cửa hàng Internet để “chat” ngay bây giờ!</noi_dung>
+</truyen>
+
+<truyen ten="Dihydrogen monoxide">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Trong một nghiên cứu, sinh viên nọ cảnh báo mọi người về một chất hóa học mình vừa tìm ra và đã được đăng ký bản quyền phát minh có tên “dihydrogen monoxide”. Nó gây ra hàng loạt tác hại.
+- Gây vã mồ hôi nhiều.
+- Là thành phần chính của mưa axit.
+- Duy trì sự cháy khi chuyển sang thể khí.
+- Chẳng may hít phải có thể gây ngạt chết.
+- Một trong những tác nhân của sự xói mòn.
+- Làm giảm hiệu quả của phanh ôtô.
+- Tìm thấy trong khối u của các bệnh nhân ung thư giai đoạn cuối...
+Anh ta gửi những kết luận này lên Tổ chức Sức khỏe thế giới và yêu cầu ủng hộ việc cấm sử dụng chất này. Có 43 người tán đồng ý kiến, sáu người chần chừ lưỡng lự, chỉ duy nhất một người biết tên của chất đó: nước.</noi_dung>
+</truyen>
+
+<truyen ten="Huấn luyện tốt">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Nhà bác học nuôi 2 con chuột, huấn luyện chúng mỗi lúc thèm ăn thì bấm một cái nút nhỏ. Cuối cùng cũng thành công. Một ngày nọ, 2 con chuột nói chuyện với nhau:
+- Mày thấy không, mình đã huấn luyện được gã đó, mỗi lúc bấm nút là lại đem đồ ăn đến cho mình!</noi_dung>
+</truyen>
+
+<truyen ten="Hiện tượng đồng âm">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Giờ giải lao tại hội thảo ngôn ngữ quốc tế, các giáo sư nói chuyện với nhau về hiện tượng đồng âm. Người đến từ nước Anh nói:
+- I can can a can (Tôi có thể làm một cái hộp).
+- Giáo sư tiếng Pháp nói: La souris sourit sous le riz (Con chuột cười dưới gạo).
+- Ví dụ của vị giáo sư Trung Quốc là: Đồng tử du đồng, đồng tử lạc (Cậu bé dạo chơi trên đồng bị trái ngô rụng phải).
+- Đến lượt mình nhà ngôn ngữ học Việt Nam xổ ra một tràng: Bữa qua, qua nói qua qua mà qua hổng qua. Hôm nay, qua hông nói qua qua mà lại qua.
+- !!!</noi_dung>
+</truyen>
+
+<truyen ten="Tấm bản đồ nhặt được trên dãy Alps">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Một đoàn thám hiểm đang tiến sâu vào dãy Alps. Đánh rơi mất tập bản đồ duy nhất, họ bị lạc đường. Đang trong tình thế tuyệt vọng, bỗng họ nhặt được một tấm bản đồ khác, cả đoàn mừng rú lên. Sau một hồi lâu đối chiếu la bàn và sử dụng hàng loạt máy móc định vị phức tạp, giáo sư trưởng đoàn reo lên:
+- A ! Thấy rồi, mọi người có nhận ra đỉnh núi cao nhất mờ mờ đằng kia không!
+- Đám người đồng thanh reo lên: Có chứ! Định hướng được rồi ư?
+- Theo như tấm bản đồ này thì chúng ta đang ở trên đỉnh ngọn núi đó!</noi_dung>
+</truyen>
+
+<truyen ten="Giải pháp tạm thời">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Phi công vũ trụ báo cáo về trung tâm điều khiển:
+- Báo cáo, cách tàu 2 km xuất hiện một quái vật rất to với ăng ten trên đầu, nó cầm... một chiếc máy ảnh lớn và nhìn tôi không chớp mắt. Xin chỉ thị của trung tâm!
+- Chúng tôi sẽ lập phương án đối phó ngay! Tạm thời trong lúc các máy tính làm việc, anh hãy mỉm cười với nó!</noi_dung>
+</truyen>
+
+</truyen_cuoi>

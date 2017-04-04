@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<truyen_cuoi>
+
+<!--
+<truyen ten="">
+<ten_truyen></ten_truyen>
+<noi_dung></noi_dung>
+</truyen>
+-->
+
+<!-- them truyen -->
+
+<truyen ten="Ngang với...!">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Bố Vợ Và Con rể Đi lên huyện.
+Tới Bờ Sông, 2 bố Con nhìn thấy 1 con chó bơi ở dưới Sông.
+Bố vợ: Con có biêt bơi không?
+Con rể: dạ! Không ạ!
+Bố Vợ: Ui! Mày không cả bằng con chó nữa à?
+Con rể: Thế Bố biêt Bơi không ạ?
+Bố Vợ: Ta Có Chứ!
+Con rể: Thế Bố cũng chỉ ngang Với Con Chó Thôi! hehehe</noi_dung>
+</truyen>
+
+<truyen ten="Chả dấu gì bác">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Có một ông lâu ngày đến nhà ông bạn thân chơi. Khách chủ gặp nhau chuyện trò rôm rả. Chủ kiếm trầu mời khách nhưng giữa cơi trầu chỉ có mỗi một miếng. Chủ khẩn khoản mời mãi, khách đành phải ăn.
+Cách một thời gian sau, ông này nhớ bạn lại đánh đường sang thăm trả.
+Thấy bạn đến, ông kia mừng lắm, mời lên nhà ngồi. Chuyện trò lại rôm rả.
+Ông này cũng bày ra giữa cơi chỉ có mỗi một miếng trầu và khẩn khoản mời.
+Ông khách khen cơi trầu đẹp và nể lời cầm miếng trầu lên tay ngắm nghía:
+- Thứ cau của nhà bác chắc bổ vào dịp trời mưa nên nó lắm xơ nhỉ?
+- Không đâu ạ, đó chính là miếng trầu bác mời dạo nọ đấy ạ. Tôi ngậm nên nó hơi bị giập ra.</noi_dung>
+</truyen>
+
+<truyen ten="Thành thật">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>- Mẹ: Con ăn vụng canh phải không?
+- Quỳnh: Không như thế được, khi con ăn, con có đánh đổ ra quần áo đâu?
+- Mẹ: !!!</noi_dung>
+</truyen>
+
+<truyen ten="1x10=9">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>- Thầy:Một cái bánh giá 1 hào, vậy 10 cái giá bao nhiêu, trò?
+- Quỷnh: Thưa thầy khoảng chín hào ạ!
+- Thầy: Sao lại 9 hào, con tính lại đi!
+- Quỷnh: Thưa thầy, tại vì mua nhiều…họ bớt tiền cho ạ!</noi_dung>
+</truyen>
+
+<truyen ten="Ít ngủ">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>- Cha: Dạo này con thức khua quá! Ít ngủ ko có lợi đâu, con ạ!
+- Quỳnh: Cha đừng lo, con đã ngủ bù ở lớp rồi ạ!
+- Cha: Trời !!!</noi_dung>
+</truyen>
+
+<truyen ten="Chí Phèo biết chữ">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Sang nhà Bá Kiến ăn vạ xong, Chí Phèo xách một can rượu 20 lít “chiến lợi phẩm” lặc lè lết về vườn chuối. Vừa đi gã vừa lẩm bẩm:
+- Mẹ cha cái lão Bá Kiến, rượu nặng thế này mà lão ấy kêu rượu nhẹ, định làm mình say chết đây!
+Rồi hắn bập bẹ đánh vần:
+- Rờ... ươu... rươu... nặng... rượu. Nhờ... e... nhe... nặng... nhẹ... Hừ! Làm chó gì có cái thứ đã nặng lại còn nhẹ. Mẹ cha nó! Cái làng Vũ Đại này loạn rồi.</noi_dung>
+</truyen>
+
+<truyen ten="Uống nước nhớ...">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>- Thầy: Uống nước nhớ gì, em nào biết!
+- Quỳnh: Dạ thưa thầy, uống nước kẻ trồng cây!
+- Thầy: Sao lại uống nước nhớ kẻ trồng cây?
+- Quỳnh: Dạ , vì em uống nước dừa mà thầy!</noi_dung>
+</truyen>
+
+<truyen ten="Ai nịnh ai?">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Một anh nhà giàu hỏi người nghèo:
+- Tôi giàu anh có nịnh tôi không?
+Người nghèo:
+- Ông giàu mắc mớ gì đến tôi mà tôi phải nịnh ông?
+Nhà giàu:
+- Nếu tôi cho anh nửa gia tài, anh có nịnh tôi không?
+Người nghèo:
+- Lúc đó tôi giàu bằng ông rồi việc gì tôi phải nịnh ông.
+Nhà giàu:
+- Nếu tôi cho anh cả gia tài, anh có nịnh tôi không?
+Người nghèo:
+- Chắc chắn lúc đó ông phải nịnh tôi.</noi_dung>
+</truyen>
+
+<truyen ten="Mẹo vặt">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Ông chủ đoàn xiếc nhìn thấy màn biểu diễn đặc sắc trên đường phố: Một con vịt nhảy nhót trên chiếc nồi úp ngược. Ông ngạc nhiên vô cùng và bèn trả khoản tiền lớn để mua con vịt cùng chiếc nồi.
+Chỉ một ngày sau, ông ta tức giận tìm tới chỗ người bán vịt:
+- Tôi để con vịt lên chiếc nồi và làm hết cách rồi mà nó cứ đứng đực ra, không chịu nhảy nhót gì cả!
+- Thế à? - người chủ cũ con vịt đáp lại - Thế ông có nhớ đốt nến dưới chiếc nồi không?</noi_dung>
+</truyen>
+
+<truyen ten="Dẻo và bền nhất">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>- Thầy: Trò nghe đây: sắt thép, đồng…vật liệu nào dẻo dai và bền nhất?
+- Quỳnh: Thưa thầy là…Thưa thầy cho 5 phút suy nghĩa ạ. Á! Thưa thầy vật dẻo dai và bền nhất đó là sợi tóc ạ.
+- Thầy: Sao! Làm gì có chuyện đó sợi tóc làm sao có thể dẻo hơn sắt thép được?
+- Quỳnh: Sao lại ko ạ! Thưa thầy chẳng phải người ta nói nghìn cân treo sợi tóc đó thôi ạ.</noi_dung>
+</truyen>
+
+<truyen ten="Tốc độ phát triển các nước!">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Trong một cuộc thi về tốc độ phát triển các nước trên thế giới , Có 3 nước tham gia là Mỹ , Nhật và Việt Nam.
+Nước Mỹ lên tiếng trước...
+- "Nước tôi là số 1, Nếu chúng tôi đào xuống đất 10m thì phát hiện ra dây điện ngầm...trong khi các anh còn chưa có dây điện trần.Nguồn điện bắt đầu từ đó."
+- Nước Nhật tức giận..."Như thế mà cho là phát triển hả? Nếu như chúng tôi đào xuống 50m thì đó là nơi chúng tôi chôn dây cáp quang...Đó là lúc internet xuất hiện đầu tiên."
+Đến lượt Việt Nam: Loay hoay mãi chẳng biết làm sao? Nhưng vì cuộc thi nên cũng phải đào... Đào mãi , đào mãi chẵng thấy dây gì..Suy nghĩ một hồi rồi trịnh trọng tuyên bố:
+- "Các nước mấy chú còn lạc hậu quá.! Chúng tôi đào hoài mà không thấy gì chứng tỏ lúc bấy giờ nước tôi đã bắt đầu dùng wireless (không dây)..."</noi_dung>
+</truyen>
+
+<truyen ten="Đều">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>- Quỷnh: Giờ kiểm tra mà bà copy như vậy ko sợ lé mắt sao ?
+- Mắm: Không sợ!
+- Quỷnh: Tại sao?
+- Mắm: Thì tôi copy thằng Tròn ngồi bên phải, rồi lại liếc sang copy thằng Béo ngồi bên trái. Đều nhau như vậy lé sao được?
+- Quỷnh: Bó tay!</noi_dung>
+</truyen>
+
+<truyen ten="Nhện">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>- Quần nói với Mần: Trong thời buổi hiện đại giờ mọi người sắp trở thành nhện rồi đấy nhỉ!
+- Mần: Ông nói vậy là có ý gì. Con người đã là động vật đỉnh cao rồi làm sao có thể tiến hóa được nữa.
+- Quần: Biết là ko tiến hóa. Nhưng mọi người cứ suốt ngày lên mạng chả “nhện” thì là gì?
+- Mần (ngẩn ngơ)…ờ há</noi_dung>
+</truyen>
+
+<truyen ten="Con gì?">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>- A (thở dài): Có đôi lúc tớ cũng ko biết tớ có phải là con người ko?
+- B: Tại sao vậy?
+- A: Lúc tớ cười thì nhỏ hàng xóm bảo tớ như đười ươi, lúc tớ ko hiểu bài thì anh tớ bảo ngu như heo và những lúc tớ quên tắm thì em gái tớ bảo tớ hôi như cú!</noi_dung>
+</truyen>
+
+<truyen ten="Tam đại con gà">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Xưa, có anh học trò học hành dốt nát, nhưng trò đời “xấu hay làm tốt , dốt hay nói chữ” , đi đâu cũng lên mặt văn hay chữ tốt.
+- Có người tưởng anh ta hay chữ thật, mới đón về dạy con trẻ.
+- Một hôm, dạy sách Tam thiên tự , sau chữ “tước” là chim sẽ, đến chữ “kê” là gà, thầy thấy mặt chữ nhiều nét rắc rối, không biết chữ gì, học trò lại hỏi gấp, thầy cuống, nói liều: “Du dỉ là con dù dì”. Thầy cũng khôn, sợ nhỡ sai, người nào biết thì xấu hổ, mới bảo học trò đọc khẽ, tuy cậy, trong long vẫn thấp thỏm.
+- Nhân trong nhà có bàn thờ thổ công, thầy mới đến khấn thầm xin ba đài âm dương để xem chữ ấy có phải thật là “dù dì” không. Thổ công cho ba đài được cả ba.
+- Thấy vậy, thầy lấy làm đắc chí lắm, hôm sau bệ vệ ngồi trên giường, bảo trẻ đọc cho to. Trò vâng lời thầy, gân cổ lên gào: Dủ dỉ là con dù dì… Dủ dỉ là con dù dì…
+- Bố chúng đang cuốc đất ngoài vườn, nghe tiếng học, ngạc nhiên bỏ cuốc chạy vào, giở sách ra xem, hỏi thầy: Chết chửa ! Chữ “kê” là gà, sao thầy lại dạy ra “dủ dỉ” là con “dù dì” ?
+- Bấy giờ thầy mới nghĩ thầm: “ Mình đã dốt, thổ công nhà nó cũng dốt nữa” , nhưng nhanh trí  thầy vội nói gỡ: "Tôi vẫn biết ấy là chữ “kê”, mà “kê” nghĩa là “gà”, nhưng tội dạy thế là dạy cháu biết đến tận tam đại con gà kia."
+- Nhà chủ càng không hiểu, hỏi: Tam đại con gà nghĩa làm sao?
+- Thế này nhé! Dủ dỉ là con dù dì, dù dì là chị con công, con công là ông con gà!</noi_dung>
+</truyen>
+
+<truyen ten="208 cái">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>- Này, mày biết người ta có bao nhiêu chiếc xương không?
+- 207 cái.
+- Thế mà tao có 208 cái đấy!
+- Xạo mày!
+- Chứ sao, tao mới nuốt 1 cái xương cá xong!</noi_dung>
+</truyen>
+
+<truyen ten="Tam Đại Gàn">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Nhà nọ có ba ông cháu. Một hôm, ông sai cháu ra chợ mua một đồng mắm và một đồng tương. Thằng  bé mang hai cái bát ra chợ mua, nhưng đi một lúc, sực nhớ ra, quay lại hỏi ông: Ông ơi, đồng nào mua mắm, đồng nào mua tương?
+- Ông bảo: Đồng nào cũng được!
+- Thằng bé lại chạy đi, một hồi lâu, lại mang hai cái bát không về, hỏi: Ban nãy cháu quên chưa hỏi ông bát nào đựng mắm, bát nào đựng tương?
+- Ông tức quá đánh cho nó mấy roi. Vừa lúc đó bố thằng bé đi đâu về, thấy thế nổi giận nói: À! Ông đánh con tôi phải không? Thế thì sợ gì mà tôi không đánh con ông! Nói rồi tự đánh vào mình một hồi nên thân.
+- Người ông cũng phát khùng lên bảo: À! Mày đánh con ông thì… thì ông treo cổ cha mày lên!
+- Rồi ông ta vội vàng đi tìm thừng để treo cổ.</noi_dung>
+</truyen>
+
+<truyen ten="Ước mơ">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>- Quỷnh: Sao bà hay vẽ vậy?
+- Mắm: Mỗi bức vẽ là 1 ước mơ của tôi...
+- Quỷnh lật đật mấy bức tranh xem và thốt lên: Ồ! “ước mơ” của bà nhem nhuốc và khó hiểu quá!
+- Mắm: Hứ!Hứ! Cái…gì???</noi_dung>
+</truyen>
+
+<truyen ten="Khen khéo">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>- Mắm : Nè, ông thấy tôi mặc cái áo mới này như thế nào?
+- Quỷnh: Ồ, tuyệt cú mèo!
+Mắm (hớn hở): Thật hả? Ông ko nịnh tôi đó chứ?
+- Quỷnh: Thật mà! Cái áo thì “tuyệt”, còn bà là “cú mèo” đó
+- Mắm: (suy sụp)!??</noi_dung>
+</truyen>
+
+<truyen ten="Thi nói khoác">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Một hôm được nghỉ, bốn quan họp nhau đánh chén, nhân lúc cao hứng liền mở cuộc thi nói khoác. Quan thứ nhất nói:
+- Tôi còn nhớ, ngày tôi trọng nhậm ở huyện nọ, tôi được trông thấy một con trâu to lắm, nó liếm một cái hết cả sào mạ!
+- Quan thứ hai nói: Thế đã lấy gì làm lạ. Tôi còn trăm thấy một sợ giăng thừng gấp mười cái cột đình làng này!
+- Quan thứ nhất biết ông kia nói lỡm mình, bèn chịu thua và giục quan thứ 3 lên tiếng.
+- Quan thứ ba nói: Tôi đã từng thấy một cây cầu dài lắm, đứng đầu này không thể trông thấy đầu kia. Chỉ biết rằng có hai bố con nhà nọ, kẻ ở bên này, người ở bên kia, mà chẳng bao giờ gặp nhau được. Lúc ông bố chết, người con nghe tin, vội vã sang đưa đám ma, nhưng kia qua cầu sang đến nơi thì đã đoạn tang được ba năm rồi.
+- Đến lượt quan thứ tư: Thế kể cũng đã ghê đấy.Nhưng tôi lại còn trông thấy 1 cái cây cao khiếp lắm! Cứ biết rằng trứng chim ở ngọn cây rơi xuống mới đến nữa chừng, chim đã nở đủ lông đủ cánh đã bay đi rồi.
+- Quan thứ ba hiểu ý muốn nói cây dùng để làm cái cầu mình nói nên đành chịu thua.
+- Bốn ông quan đắt ý, vỗ đùi cười ha ha. Bỗng có tiếng thét thật to làm các quan giật bắn người:
+- Đồ nói láo cả! Lính đâu? Trói cổ chúng nó lại cho ta!
+- Các quan sợ rung cầm cập ngơ ngác nhìn trước nhìn sau xem ai, thì té ra Anh lính hầu. Lúc ấy các quan mới lên giọng:
+- Thằng kia, mày định trói ai thế?
+- Bẩm quan, con thấy các quan thi nhau nói khoác thì con cũng nói khoác chơi đấy ạ!</noi_dung>
+</truyen>
+
+<truyen ten="Không đánh lạ">
+	<ten_truyen>...i</ten_truyen>
+	<noi_dung>- Quỷnh: Ở lớp có bạn đánh Quỷnh không dám đánh lại!
+- Mắm: Chuyện lạ à nghen! Nhưng tại sao bạn ấy lại đánh Quỷnh?
+- Quỷnh: Vì quỷnh đánh bạn ấy trước!!!
+- Mắm: Hừ! Biết ngay mà!</noi_dung>
+</truyen>
+
+<truyen ten="Chó treo mèo đậy">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>- Mợ: Con ở nhà trông mâm cơm. Nhớ là chó treo mèo đậy đấy. Mợ phải đi đàng này một lát.
+Một lát sau…
+- Mợ: Thế nào xong chưa con?
+- Quỷnh: Dạ xong rồi ạ! Mợ bảo chó treo mèo đậy nên con treo chó và đậy mèo mà!</noi_dung>
+</truyen>
+
+<truyen ten="Đúng 50%">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>- Mắm: Ê Quỷnh! Cậu ăn hai trái táo trên đĩa phải không?
+- Quỷnh: Đúng 50 % rồi !
+- Mắm: Ủa! Sao lại là 50% ?
+- Quỷnh: Thì nghĩa là tớ ăn bốn trái lận đó!</noi_dung>
+</truyen>
+
+<truyen ten="Cứ bảo tuổi sửu có được không!">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Đồn rằng có một ông huyện rất thanh liêm, không ăn của đút lót bao giờ. Bà vợ thấy tình chồng như vậy cũng không dám nhận lễ của ai.Có làng nọ muốn nhờ quan bênh cho được kiện, nhưng mang lễ vật gì đến, quan cũng gạt đi hết. Họ mới tìm cách đút lót bà huyện. Bà huyện cũng từ chối đây đẩy:
+- Nhà tôi thanh liêm lắm, tôi mà nhận của các ông thì mười, hay mười lăm năm sau ông ấy biết ông ấy cũng vẫn còn rầy rà tôi đấy!
+- Dân làng năn nỉ mãi, bà nể tình mới bày cách: Quan huyện nhà tôi tuổi “Tí”.Dân làng đã có ý như vậy, thì hãy về đúc một con chuột bằng bạc đển đây, rồi tôi thử cố nói giùm cho, họa may được chăng!
+- Dân làng nghe lời về đúc một con chuột cống thật to, ruột đặc toàn bằng bạc, đem đến.
+- Một hôm quan huyện trông thấy con chuột bạc, mới hỏi ở đâu ra, bà huyện liền đem sự tình kể lại
+- Nghe xong, ông huyện mắng: Sao mà ngốc vậy! Lại đi bảo là tuổi “Tí”! Cứ bảo tuổi “Sửu” có được không?</noi_dung>
+</truyen>
+
+<truyen ten="5 cốc">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>- MR: Bà uống gì ngon thế?
+- AD: Tôi uống 5 cốc
+- MR: Trời! Uống gì 5 cốc ghê thế?
+- AD: Ko. 5 là ngũ, là “ngũ cốc” đó.
+- MR: trời!!!</noi_dung>
+</truyen>
+
+<truyen ten="Nhật ký">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>- Quỷnh: Đố Mắm nhật ký là gì?
+- Mắm: Ờ ! Đó là chữ ký của người Nhật!
+- Quỷnh: Trời!</noi_dung>
+</truyen>
+
+<truyen ten="Gọi trời xuống">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>- Tí: Cậu biết không, hôm qua mẹ tớ phải gọi trời xuống đó!
+- Tèo: Mẹ cậu gọi thế nào, Tí ?
+- Tí: Mẹ tớ gọi: “Trời ơi! Xuống mà xem thằng Tí nhà tôi nó học dốt như vậy nè!”
+- Tèo: Trời !!!</noi_dung>
+</truyen>
+
+<truyen ten="Bút hiệu gì?">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>- Mắm: Quỷnh viết bài gửi báo hả? Bút hiệu là gì?
+- Quỷnh: Dốt quá! Bút tre thì làm gì có hiệu hả Mắm?</noi_dung>
+</truyen>
+
+<truyen ten="Ngủ trên cây">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>- Mợ: Quỷnh này! Con biết tại sao dơi ngủ lại treo mình trên cây không?
+- Quỷnh: A ! Con nghĩ ra rồi mợ ơi! Vì nó không có giường đấy mà!
+- Mợ: Ối trời ơi!</noi_dung>
+</truyen>
+
+<truyen ten="Nhưng nó phải bằng hai mày">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Làng kia có một viên lí trưởng nổi tiếng xử kiện giỏi.
+- Một hôm nọ, Cải với Ngô đánh nhau, rồi mang nhau đi kiện . Cải sợ kém thế, lót trước cho thầy lí năm đồng. Ngô biện chè lá những mười đồng. Khi xử kiện, thầy lí nói: Thằng Cải đánh thằng Ngô đau hơn, phạt một chục roi.
+- Cải vội xòe năm ngón tay, ngẩng mặt nhìn thầy lí, khẽ bẩm: Xin xét lại, lẽ phải về con mà!
+- Thầy lí cũng xòe năm ngón tai trái up lên trên năm ngón tay mặt, nói: Tao biết mày phải… nhưng nó lại phải… bằng hai mày!</noi_dung>
+</truyen>
+
+<truyen ten="Phi nước đại">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Em hỏi anh:
+- Em: Anh ơi! Tại sao lại nói là ngựa phi nước đại?
+- Anh: Thế chả nhẽ lại nói là ngựa phi nước tiểu à?</noi_dung>
+</truyen>
+
+<truyen ten="Yết thị">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Ngoài đường không có đèn. Tối đến, quan phủ doãn đi vấp phải người ta, lấy làm giận lắm. Sáng ra, quan truyền yết thị: “Ai đi đêm phải cầm đèn”
+- Đêm hôm ấy, quan đi, lại vấp phải một người.
+- Quan hỏi: Ngươi không đọc yến thị à?
+- Người kia đáp: Bẩm có đọc.
+- Thế sao ngươi không cầm đèn?
+- Bẩm có, tôi có đèn.
+- Thế sao trong đèn không cắm nến?
+- Bẩm yến thị chỉ thấy nói cầm đèn, chớ không thấy nói cắm nến.
+- Quan phủ doãn về, sáng hôm sau lại ra yết thị: “Ai đi đêm phải cầm đèn, trong đèn phải cắm nến”.
+- Đêm hôm ấy, quan đi, lại vấp phải một người.
+- Quan lại quở: Đi đêm sao không có đèn có nến?
+- Người kia đáp: Bẩm, tôi có đủ đèn đủ nến ạ!
+- Thế sao ngươi không thắp nến?
+- Bẩm, vì trong yết thị không thấy nói thắp nến.
+- Quan phủ doãn về, mai lại ra yết thị: “Ai đi đêm phải cầm đèn, trong đèn phải cắm nến, nến phải thắp”
+- Nhưng hôm sau, nửa đêm quan đi lại vấp phải một người có đèn, có nến nhưng đã thắp hết nến rồi. Quan lại quở.
+- Người kia nói: Bẩm, trong yết thị không thấy nói hết cây nến phải tiếp cây nến khác ạ !</noi_dung>
+</truyen>
+
+<truyen ten="Diêm Vương thèm ăn thịt">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Trên dương thế, có một con lợn bị đem ra giết thịt. Hồn nó về kêu với Diêm Vương. Diêm Vương hỏi:
+- Nỗi oan nhà ngươi như thế nào? Hãy nói rõ đầu đuôi nghe!
+- Dạ! Họ bắt tôi làm thịt!
+- Được rồi, hãy khai rõ rang. Họ làm thịt như thế nào?
+- Dạ, trước hết họ trói tôi lại, đè ra chọc tiết. Xong họ đỗ nước sôi lên mình tôi, cạo lông.
+- Rồi sao nữa!
+- Cạo sạch rồi họ mổ ra, thịt tôi xé thành từng mảng, chặt nhỏ bỏ vào rổ. Thế rồi…họ bắc chảo đổ mỡ vào, phi hành cho thơm, them mắm thêm muối, xào lên,…
+- Thôi ! Thôi… đừng nói nữa mà tao thèm!</noi_dung>
+</truyen>
+
+</truyen_cuoi>

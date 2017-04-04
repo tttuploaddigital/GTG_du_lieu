@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<anh_vui_tinh_yeu>
+<!--
+<anh ten="" hinh_nho="">
+	<hinh></hinh>
+</anh>
+-->
+
+<!-- them hinh -->
+
+<!-- Đã có bản cập nhật mới, vui lòng cập nhật ứng dụng -->
+<anh ten="Đã có bản cập nhật mới, vui lòng cập nhật ứng dụng" hinh_nho="http://i.imgur.com/cu3Ym8r.png">
+	<hinh>http://i.imgur.com/AkwZ9LL.png</hinh>
+</anh>
+<anh ten="Đã có bản cập nhật mới, vui lòng cập nhật ứng dụng" hinh_nho="http://i.imgur.com/cu3Ym8r.png">
+	<hinh>http://i.imgur.com/ucaKJag.png</hinh>
+</anh>
+
+</anh_vui_tinh_yeu>

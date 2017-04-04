@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<danh_sach>
+    <hinh_vui>
+        <ten>Hình vui cuộc sống</ten>
+        <hinh_nho>http://image.24h.com.vn/upload/4-2016/images/2016-12-23/1482510100-148247899559492-11.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/GTG_du_lieu/master/du_lieu_xml/hinh_vui_cuoc_song.xml</file_xml>
+    </hinh_vui>
+    <hinh_vui>
+        <ten>Hình vui tình yêu</ten>
+        <hinh_nho>http://topanhdep.net/wp-content/uploads/2015/08/avatar-e.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/GTG_du_lieu/master/du_lieu_xml/hinh_vui_tinh_yeu.xml</file_xml>
+    </hinh_vui>
+    <hinh_vui>
+        <ten>Hình vui động vật</ten>
+        <hinh_nho>http://tophinhanhdep.net/wp-content/uploads/2015/12/hinh-anh-meo-hai-huoc-5.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/GTG_du_lieu/master/du_lieu_xml/hinh_vui_dong_vat.xml</file_xml>
+    </hinh_vui>
+	<!--
+    <hinh_vui>
+        <ten>Ảnh chế</ten>
+        <hinh_nho>http://1.bp.blogspot.com/-WVdJXIP6Doo/U4daQhm_SJI/AAAAAAAABTg/dLOPw8UX-4s/s1600/9.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/GTG_du_lieu/master/du_lieu_xml/hinh_vui_anh_che.xml</file_xml>
+    </hinh_vui>
+	-->
+</danh_sach>

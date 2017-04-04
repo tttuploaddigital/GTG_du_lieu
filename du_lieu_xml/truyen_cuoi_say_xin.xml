@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<truyen_cuoi>
+
+<!--
+<truyen ten="">
+<ten_truyen></ten_truyen>
+<noi_dung></noi_dung>
+</truyen>
+-->
+
+<!-- them truyen -->
+
+<truyen ten="Thế mới tài">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Cha nói với con:
+- Mày cầm cái chai đi mua một chai rượu nhé.
+- Tiền đâu mà mua hả bố?
+- Không có tiền mua được mới tài chứ?
+- Một lát sau, con cầm cái chai không về, cha hỏi: Rượu đâu hả mày?
+- Không có rượu, vẫn uống được, thế mới tài chứ.</noi_dung>
+</truyen>
+
+<truyen ten="Tỉnh táo">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Vừa xong bữa nhậu đầu năm với bạn bè, anh chồng ngất ngư đi về nhà. Để vợ không đoán được là mình uống rượu quá mức, anh ta quyết định đi thẳng vào phòng và ngồi đọc sách, hy vọng vợ trông thấy sẽ nghĩ là mình tỉnh táo...Vài phút sau, cô vợ vào và hỏi:
+- Anh đang làm gì vậy?
+- Đọc sách.
+- Vợ anh ta thét lên: Đồ điên! Đóng vali lại và ngủ đi!</noi_dung>
+</truyen>
+
+<truyen ten="Không biết mình là ai">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Ba người đàn ông say rượu dìu nhau về nhà. Đến trước cửa một căn nhà, một gã đập vào cửa và hét lên: "Ông Tư ở đây phải không?".
+Tiếng phụ nữ trả lời:
+- Phải.
+- Bà... bà là ai?
+- Tôi là vợ ông Tư.
+- Vậy bà làm ơn ra xem ai là ông Tư, đưa ổng vô nhà để mấy người kia còn về nhà nữa chứ...</noi_dung>
+</truyen>
+
+<truyen ten="Mặt trời hay mặt trăng">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Hai gã say đang trò chuyện trên đường về nhà:
+- Đẹp thật, nhìn trăng kìa!
+- Sai bét ! Đó là mặt trời !
+- Họ cãi nhau cho đến khi gặp một người lảo đảo đi ngược lại, một người hỏi: Này anh bạn, hãy nói xem cái vật đang chiếu sáng trên kia là mặt trời hay mặt trăng vậy ?
+- Người kia nhìn lên trời chăm chú rồi cau mày hỏi lại: Xin lỗi, các anh định hỏi về cái bên trái hay bên phải?</noi_dung>
+</truyen>
+
+<truyen ten="Sang ngay">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Có tiếng gõ cửa, chủ nhà chạy ra mở:
+- Cháu đấy à, vào đi, vào đi. Nào cháu cần gì?
+- Bố cháu muốn mượn bác cái mở nút chai.
+- Mắt ông ta sáng lên: Nút chai à! Về nhà nói với bố chuẩn bị thêm cái chén, bác sẽ... tự tay mang ngay sang bây giờ nhé.</noi_dung>
+</truyen>
+
+<truyen ten="Tài nếm rượu">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Một tay đệ tử Lưu Linh đứng tựa vào quầy quán bar, khoe khoang có khả năng phân biệt bất kỳ loại rượu nào khi bị bịt mắt.
+Nhiều người trong quán cá cược là anh ta sẽ không làm được điều đó.
+Anh hầu bàn đưa ra từng loại rượu và lần nào anh ta cũng đoán trúng.
+Tức mình, anh bồi mang ra một cốc nước lã. Tay thử rượu uống một ngụm và nhổ toẹt ngay ra, thú nhận:
+- Không biết là cái thứ đồ uống quái quỷ gì, nhưng tôi đoán chắc một điểm: sẽ không bán được.</noi_dung>
+</truyen>
+
+<truyen ten="Mấy người">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Trên đường quốc lộ, hai gã thanh niên trên một chiếc xe máy đang phóng như điên chợt một anh cảnh sát giao thông chạy ra tuýt còi dừng xe. Một trong hai gã lên tiếng, giọng như nấc cụt:
+- Dạ... Xin chào... hai đồng chí... cảnh sát!
+- Mời... bốn đồng chí... thường dân xếp thành... hàng một...-Anh cảnh sát trả lời.</noi_dung>
+</truyen>
+
+<truyen ten="Nhầm lẫn">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Trong một quán rượu tại Alaska, cao bồi mới đến hỏi ông chủ quán:
+- Làm thế nào để tôi có thể trở thành một người Alaska?
+- Ồ! Dễ lắm - Chủ quán trả lời - Anh phải làm ba việc, thứ nhất là tu hết chai whisky trong một hơi. Thứ hai, bắn hạ một con gấu tuyết và cuối cùng là khiêu vũ với một người Eskimo.
+- Chỉ thế thôi sao? Hắn nói và kêu một chai Whisky rồi tu một hơi hết sạch. Mọi người hò reo cổ vũ.
+- Bây giờ đến... phần hai.
+- Hắn tuyên bố rồi lảo đảo phóng đi. Dân nhậu đợi hắn đến gần nửa đêm, hắn quay lại với bộ áo rách như xơ mướp, mặt bị cào nát, máu me bầm tím: OK... Để thành người Alaska... bây giờ thằng Eskimo mà tôi phải... bắn ở đâu?</noi_dung>
+</truyen>
+
+<truyen ten="Cảnh rừng cháy">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Anh chồng say xỉn khật khưỡng bước vào nhà, ngồi phịch xuống ghế bành rồi đăm đăm nhìn về phía tivi. Rất lâu sau, anh ta càu nhàu:
+- Phim gì mà chiếu mãi một cảnh rừng cháy thế này?
+- Cô vợ càu nhàu: Uống vừa thôi, tivi bán rồi, còn trơ lại cái lò sưởi đấy!</noi_dung>
+</truyen>
+
+<truyen ten="Lý do đi ăn xin">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Một người đi đường hỏi ông ăn xin: "Sao ông lại đi ăn xin?".
+- Để tôi lấy tiền uống rượu.
+- Vậy sao ông lại uống rượu?
+- Để tôi có đủ dũng khí đi ăn xin.
+- !!!!!</noi_dung>
+</truyen>
+
+<truyen ten="Thật là may mắn!">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Bob say khướt. Anh ta về nhà, đập cửa:
+- Ồ, Bob! Anh đã về đấy ư?
+- Ừ, em yêu ạ, anh gặp bạn cũ.
+- !?
+- Anh nhậu hết lương tháng rồi.
+- À, em có thể hiểu.
+- Xe lại bị giữ...
+- Chuyện đương nhiên mà.
+- Ôi, em đúng là người phụ nữ hiền dịu nhất trần đời. Ừm... Ờ... hình như cái dây chuyền em đưa hôm qua, anh trót tặng một cô gái.
+- Lạy Chúa, em thật là may mắn!
+- Sao, em định nói là em rất hài lòng ư?
+- Vâng, vì em chỉ là... hàng xóm của anh. Hãy can đảm lên, chỉ còn vài bước chân nữa thôi. Cầu Chúa phù hộ cho anh!</noi_dung>
+</truyen>
+
+<truyen ten="Còn tệ hơn là đánh rơi">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Một gã trông bơ phờ tạt vào quán rượu hỏi:
+- Tối hôm qua tôi ở đây phải không?
+- Đúng đấy!
+- Tôi tiêu hết bao nhiêu tiền?
+- Khoảng 80 bảng.
+- Ơn Chúa! Thế mà tôi cứ nghĩ là đánh rơi đâu mất số tiền đó.</noi_dung>
+</truyen>
+
+<truyen ten="Thêm một cầu nữa cho chắc ăn">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Hai bợm nhậu say bí tỉ trên đường về nhà. Tới bờ sông, bỗng một người thốt lên:
+- Thôi chết, cầu có một bây giờ thành hai rồi, rủi mà bước nhầm cái cầu "ảo" là ngủm luôn!
+- Có lẽ vì hồi nãy mình mới làm có một chai nên mới thành hai cái cầu. Hay là mình làm thêm một chai nữa, bảo đảm một cái sẽ thành ba, rồi tụi mình qua cái giữa là chắc ăn nhất!
+- Hà hà, chí phải... chí phải!</noi_dung>
+</truyen>
+
+<truyen ten="Không phải dân địa phương">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Hai chú say gặp nhau, một chú chỉ tay lên trời và hỏi chú kia:
+- Thưa ông, trên kia là mặt trăng hay mặt trời?
+- Dạ, xin lỗi ông, tôi không phải là người địa phương nên cũng không rõ.</noi_dung>
+</truyen>
+
+<truyen ten="Quỳ gối nói chuyện">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Hai bợm nhậu nói chuyện với nhau:
+- Dạo này đi nhậu không sợ vợ la ó sao?
+- Ôi trời, vợ tao sợ tao lắm.
+- Vậy là mày bản lĩnh giống tao. Mày biết không, khi đi nhậu về, vợ phải quỳ gối mới nói chuyện được với tao.
+- Thế thì mày hơn đứt tao rồi. Chỉ tao cách với.
+- Dễ ợt, khi nhậu về, tao chui xuống gầm giường....</noi_dung>
+</truyen>
+
+</truyen_cuoi>

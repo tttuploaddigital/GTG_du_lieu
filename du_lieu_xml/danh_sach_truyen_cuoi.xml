@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<danh_sach>
+    <truyen_cuoi>
+        <ten>Truyện cười gia đình</ten>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/GTG_du_lieu/master/du_lieu_xml/truyen_cuoi_gia_dinh.xml</file_xml>
+    </truyen_cuoi>
+    <truyen_cuoi>
+        <ten>Truyện cười nghề nghiệp</ten>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/GTG_du_lieu/master/du_lieu_xml/truyen_cuoi_nghe_nghiep.xml</file_xml>
+    </truyen_cuoi>
+    <truyen_cuoi>
+        <ten>Truyện cười dân gian</ten>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/GTG_du_lieu/master/du_lieu_xml/truyen_cuoi_dan_gian.xml</file_xml>
+    </truyen_cuoi>	
+    <truyen_cuoi>
+        <ten>Truyện cười tôn giáo</ten>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/GTG_du_lieu/master/du_lieu_xml/truyen_cuoi_ton_giao.xml</file_xml>
+    </truyen_cuoi>
+    <truyen_cuoi>
+        <ten>Truyện cười học đường</ten>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/GTG_du_lieu/master/du_lieu_xml/truyen_cuoi_hoc_duong.xml</file_xml>
+    </truyen_cuoi>
+    <truyen_cuoi>
+        <ten>Truyện cười tình yêu</ten>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/GTG_du_lieu/master/du_lieu_xml/truyen_cuoi_tinh_yeu.xml</file_xml>
+    </truyen_cuoi>
+    <truyen_cuoi>
+        <ten>Truyện cười y học</ten>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/GTG_du_lieu/master/du_lieu_xml/truyen_cuoi_y_hoc.xml</file_xml>
+    </truyen_cuoi>
+    <truyen_cuoi>
+        <ten>Truyện cười giao thông</ten>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/GTG_du_lieu/master/du_lieu_xml/truyen_cuoi_giao_thong.xml</file_xml>
+    </truyen_cuoi>
+    <truyen_cuoi>
+        <ten>Truyện cười pháp luật</ten>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/GTG_du_lieu/master/du_lieu_xml/truyen_cuoi_phap_luat.xml</file_xml>
+    </truyen_cuoi>
+    <truyen_cuoi>
+        <ten>Truyện cười nhà hàng</ten>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/GTG_du_lieu/master/du_lieu_xml/truyen_cuoi_nha_hang.xml</file_xml>
+    </truyen_cuoi>
+    <truyen_cuoi>
+        <ten>Truyện cười say xỉn</ten>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/GTG_du_lieu/master/du_lieu_xml/truyen_cuoi_say_xin.xml</file_xml>
+    </truyen_cuoi>
+    <truyen_cuoi>
+        <ten>Truyện cười khoa học</ten>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/GTG_du_lieu/master/du_lieu_xml/truyen_cuoi_khoa_hoc.xml</file_xml>
+    </truyen_cuoi>
+    <truyen_cuoi>
+        <ten>Truyện cười công nghệ</ten>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/GTG_du_lieu/master/du_lieu_xml/truyen_cuoi_cong_nghe.xml</file_xml>
+    </truyen_cuoi>
+    <truyen_cuoi>
+        <ten>Truyện cười thể thao</ten>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/GTG_du_lieu/master/du_lieu_xml/truyen_cuoi_the_thao.xml</file_xml>
+    </truyen_cuoi>
+</danh_sach>

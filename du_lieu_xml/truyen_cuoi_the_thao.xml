@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<truyen_cuoi>
+
+<!--
+<truyen ten="">
+<ten_truyen></ten_truyen>
+<noi_dung></noi_dung>
+</truyen>
+-->
+
+<!-- them truyen -->
+
+<truyen ten="Chạy nước rút vào...bệnh viện">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Một cựu vô địch môn chạy việt dã khoe với con cháu về thời vàng son oanh liệt của mình:
+- Hồi còn trẻ, ta đã chạy nước rút 50 cây số để cho cái thằng xúc phạm người tình của ta một bợp tai.
+- Rồi sau đó ông lại chạy "nước rút" về à?
+- Ta cũng không nhớ! Chỉ biết rằng khi tỉnh lại, ta đã thấy mình ở trong bệnh viện rồi.</noi_dung>
+</truyen>
+
+<truyen ten="Mắt lé">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Một cầu thủ đi khám bác sĩ sau khi bị chấn thương vùng mặt.
+- Bác sĩ phán: Mắt anh thoái hoá rồi! Có thể chuyển sang dạng mắt lé.
+- Vận động viên kêu lên: Chúa ơi! Lé mắt! Thế là sự nghiệp bóng đá của tôi tiêu tùng rồi.
+- Không, chưa! Anh vẫn có thể làm trọng tài được.</noi_dung>
+</truyen>
+
+<truyen ten="Xem nốt">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Bệnh nhân than phiền với bác sĩ:
+- Tôi ngủ không ngon giấc, suốt đêm cứ mơ thấy một đàn chuột chơi bóng đá ầm ĩ.
+- Tối nay, ông uống hai viên thuốc này, sẽ khỏi thôi!
+- Để tối mai uống được không ạ?
+- Sao vậy?
+- Vì tối nay là trận chung kết của bọn chúng.</noi_dung>
+</truyen>
+
+<truyen ten="Mất hay không?">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Tên trộm lẻn vào nhà dắt chiếc xe @ mới cứng ra cửa, chợt nghe tiếng ông chủ nhà thét lên: Việt vị! việt vị rồi! Tiếc quá!...
+- Tên trộm máu mê bóng đá không kìm được bật lên tiếng cãi: Việt vị đâu mà việt vị nào?
+- Ông chủ nhà không buồn để ý đến tiếng ai vừa nói, vẫn dán mắt vào màn hình chăm chú và ra giọng cá cược: Được rồi, nếu không phải là việt vị, tôi sẽ mất cho anh cái @!
+- !!!</noi_dung>
+</truyen>
+
+<truyen ten="Đi và về">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Một ông lão từng là cua-rơ chạy đua khoe với các cua-rơ cháu chắt về thời vàng son oanh liệt của mình:
+- Ta còn nhớ hồi còn trẻ, ta đã chạy bộ 50 cây số để cho cái thằng cướp người tình ta một cái bợp tai.
+- Thế sau đó, ông cũng lại chạy bộ về à?
+- Không! Ta về bằng... xe cứu thương</noi_dung>
+</truyen>
+
+<truyen ten="Thành công">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Đội bơi lội tỉnh nọ vừa đi thi đấu về, huấn luyện viên long trọng phát biểu:
+- Tuy chúng tôi không đạt một thắng lợi nào, nhưng thay vào đó không ai bị chết đuối và điều đó đã là thành công lắm rồi!</noi_dung>
+</truyen>
+
+<truyen ten="Kịch bản bóng đá">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Bố là dân điện ảnh đưa con trai nhỏ đi xem bóng đá. Người cha vui vẻ giảng giải cho con:
+- Trong bóng đá, con có thể coi khán giả là người xem phim, huấn luyện viên là đạo diễn, còn các cầu thủ là diễn viên.
+- Thế ai là người viết kịch bản hả bố?
+- Ừm... là giới cá cược con ạ!</noi_dung>
+</truyen>
+
+<truyen ten="Còn chưa xuống đến nơi">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Hai vận động viên leo núi đang vượt qua một cái vực thì một người bị trượt chân rơi xuống. Người kia ngoái lại hỏi:
+- Anh có làm sao kh...ô...ô...ng?
+- Chưa b...i...ế...t...!, - ở dưới trả lời - vẫn đang r...ơ...i...i...</noi_dung>
+</truyen>
+
+<truyen ten="Bao quát cả sân">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Sau mấy trận thua liên tiếp, trong một buổi họp, huấn luyện viên sau khi phê bình các cầu thủ kết luận:
+- Cả cái sân rộng lớn như vậy các anh đều bao quát hết được. Thậm chí chỗ nào đặt máy quay của truyền hình, máy chụp ảnh của nhà báo, các anh đều biết để tạo dáng lên tivi cho đẹp mặt. Vậy mà chỉ có mỗi cầu môn đối phương nằm ở đâu mà không ai trong các anh xác định được chính xác là thế nào?</noi_dung>
+</truyen>
+
+<truyen ten="Không thể thắng được!">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Ngày tận thế, thiên đàng và địa ngục tranh chấp lãnh thổ trên mặt đất. Bên bàn đàm phán, Satan - đại diện địa ngục - đề nghị sẽ có một trận đá bóng để giải quyết vấn đề này. Trợ lý của Satan nói nhỏ:
+- Như thế sẽ rất bất lợi cho chúng ta, bởi tất cả các cầu thủ giỏi đã lên thiên đàng.
+- Đừng lo, ngươi không nhớ là tất cả các trọng tài đều đã xuống địa ngục sao?</noi_dung>
+</truyen>
+
+<truyen ten="Mê tín">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>Sau hiệp một, huấn luyện viên tập trung các cầu thủ trong phòng thay quần áo, ông tỏ ra lúng túng và bắt đầu nói: "Các bạn yêu quý, các bạn có thể cho tôi là người mê tín, nhưng quả thực với kết quả 13-0 ở hiệp một như thế này, tôi bắt đầu nghi ngờ không hiểu chúng ta có thắng được không?".</noi_dung>
+</truyen>
+
+<truyen ten="Gặp bác sĩ">
+	<ten_truyen>...</ten_truyen>
+	<noi_dung>- Hôm qua, anh xin nghỉ làm để đi khám bệnh, thế mà sau đó tôi gặp anh ở sân vận động. Sao anh lại nói dối tôi như vậy?
+- Tôi không nói dối đâu, thưa sếp. Bác sĩ của tôi chơi ở cánh trái trong trận đó.</noi_dung>
+</truyen>
+
+</truyen_cuoi>
