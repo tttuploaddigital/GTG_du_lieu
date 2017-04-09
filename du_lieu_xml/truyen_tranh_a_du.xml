@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<truyen_tranh>
+<!--
+<anh ten="" hinh_nho="">
+	<hinh></hinh>
+</anh>
+-->
+
+<!-- them hinh -->
+
+<!-- Truyện Bựa Á Đù 10 -->
+<anh ten="Truyện Bựa Á Đù 10" hinh_nho="http://i.imgur.com/ZsHJrGL.png">
+	<hinh>http://img.tintuc.vietgiaitri.com/2014/4/1/truyen-bua-a-du-phan-10-52da48.jpg</hinh>
+</anh>
+
+<!-- Truyện Bựa Á Đù 9 -->
+<anh ten="Truyện Bựa Á Đù 9" hinh_nho="http://i.imgur.com/ZsHJrGL.png">
+	<hinh>http://img.tintuc.vietgiaitri.com/2014/4/1/truyen-bua-a-du-a78f55.jpg</hinh>
+</anh>
+
+<!-- Truyện Bựa Á Đù 8 -->
+<anh ten="Truyện Bựa Á Đù 8" hinh_nho="http://i.imgur.com/ZsHJrGL.png">
+	<hinh>http://img.tintuc.vietgiaitri.com/2014/4/1/truyen-bua-a-du-phan-8-ce207a.jpg</hinh>
+</anh>
+
+<!-- Truyện Bựa Á Đù 7 -->
+<anh ten="Truyện Bựa Á Đù 7" hinh_nho="http://i.imgur.com/ZsHJrGL.png">
+	<hinh>http://img.tintuc.vietgiaitri.com/2014/4/1/truyen-bua-a-du-phan-7-b82b57.jpg</hinh>
+</anh>
+
+<!-- Truyện Bựa Á Đù 6 -->
+<anh ten="Truyện Bựa Á Đù 6" hinh_nho="http://i.imgur.com/ZsHJrGL.png">
+	<hinh>http://img.tintuc.vietgiaitri.com/2014/4/1/truyen-bua-a-du-phan-6-9e5dc3.jpg</hinh>
+</anh>
+
+<!-- Truyện Bựa Á Đù 5 -->
+<anh ten="Truyện Bựa Á Đù 5" hinh_nho="">
+	<hinh>http://img.tintuc.vietgiaitri.com/2014/4/1/truyen-bua-a-du-phan-5-72324a.jpg</hinh>
+</anh>
+
+<!-- Truyện Bựa Á Đù 4 -->
+<anh ten="Truyện Bựa Á Đù 4" hinh_nho="http://i.imgur.com/ZsHJrGL.png">
+	<hinh>http://img.tintuc.vietgiaitri.com/2014/4/1/truyen-bua-a-du-phan-4-efed08.jpg</hinh>
+</anh>
+
+<!-- Truyện Bựa Á Đù 3 -->
+<anh ten="Truyện Bựa Á Đù 3" hinh_nho="http://i.imgur.com/ZsHJrGL.png">
+	<hinh>http://img.tintuc.vietgiaitri.com/2014/4/1/truyen-bua-a-du-phan-3-11845c.jpg</hinh>
+</anh>
+
+<!-- Truyện Bựa Á Đù 2 -->
+<anh ten="Truyện Bựa Á Đù 2" hinh_nho="http://i.imgur.com/ZsHJrGL.png">
+	<hinh>http://img.tintuc.vietgiaitri.com/2014/4/1/truyen-bua-a-du-phan-2-43e58c.jpg</hinh>
+</anh>
+
+<!-- Truyện Bựa Á Đù 1 -->
+<anh ten="Truyện Bựa Á Đù 1" hinh_nho="http://i.imgur.com/ZsHJrGL.png">
+	<hinh>http://img.tintuc.vietgiaitri.com/2014/4/1/truyen-bua-a-du-phan-1-e95d0e.jpg</hinh>
+</anh>
+
+</truyen_tranh>
