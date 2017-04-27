@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach>
-	<!--
     <truyen_tranh>
         <ten>Truyện Bựa Sexy Pon Pon</ten>
-		<hinh_nho>http://i.imgur.com/Y6SjGMJ.png</hinh_nho>
+		<hinh_nho>http://i.imgur.com/Rbp4SAp.jpg</hinh_nho>
 		<hinh_to>http://i.imgur.com/TCWCw7m.png</hinh_to>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/GTG_du_lieu/master/du_lieu_xml/truyen_tranh_sexy_pon_pon.xml</file_xml>
     </truyen_tranh>
-	-->
     <truyen_tranh>
         <ten>Truyện Bựa Á Đù</ten>
 		<hinh_nho>http://i.imgur.com/ERAjFjn.jpg</hinh_nho>
