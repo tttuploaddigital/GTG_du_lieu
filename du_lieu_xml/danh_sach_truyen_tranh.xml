@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach>
     <truyen_tranh>
-	<!--
         <ten>Truyện Bựa Sexy Pon Pon</ten>
 		<hinh_nho>http://i.imgur.com/CEGTOgQ.jpg</hinh_nho>
 		<hinh_to>http://i.imgur.com/TCWCw7m.png</hinh_to>
@@ -55,7 +54,6 @@
 		<hinh_to>http://i.imgur.com/RAcvM6F.png</hinh_to>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/GTG_du_lieu/master/du_lieu_xml/truyen_tranh_mr_fap.xml</file_xml>
     </truyen_tranh>
-	-->
     <truyen_tranh>
         <ten>Tiểu Thư Hơ Mông</ten>
 		<hinh_nho>http://i.imgur.com/WR0iD4v.jpg</hinh_nho>
